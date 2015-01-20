@@ -10,12 +10,4 @@ license: CC-BY-NC-SA
 
 I argue that the Boundary Problem affects political theory in a number of different ways, each with different consequences.
 
-## Outline
-
-- What's the Boundary Problem?
-
-- The problem of justice. Any normative account 
-
-- The problem of theory.  The question can't be answered democratically
-
-- The problem of legitimacy.  Many accounts of democracy justify the authority of a democratic state on consequentialist grounds.  The Boundary problem undermines these accounts.
+Currently a very rough brain dump of thoughts, suitable only for general discussion and ridicule.
