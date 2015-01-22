@@ -30,6 +30,11 @@ I argue that the Boundary Problem can be better understood once we make these pe
 
 ### The Democrat
 
+The Democratic is concerned with:
+
+  - the intractability of the BP with democratic theory
+  - the conflict of non-democratic solutions with democratic values
+
 The Democrat is concerned with finding a democratic solution to the Boundary Problem.  This is a challenge because it seems like the the Boundary Problem can't be solved democratically. Any democratic process presupposes the existence of some determinant group of people, _the people_, who constitute the participants of that process. Democratic answers are therefore, either viciously circular in that they must first presuppose the answer to the question they ask, or result in an infinite regress of deciding who gets to decide who gets to decide who gets to decide.
 
 As @arrhenius2005 notes however, there is a difference between theories as normative ideals and theories as decision procedures...
