@@ -11,3 +11,28 @@ license: CC-BY-NC-SA
 I argue that the Boundary Problem affects political theory in a number of different ways, each with different consequences.
 
 Currently a very rough brain dump of thoughts, suitable only for general discussion and ridicule.
+
+## An Outline
+
+#### The Problem
+
+  - history
+  - democratic regress
+  - non-democratic ideals
+    - history
+    - nationalism
+    - salience
+    - consent
+    - autonomy
+    - all affected
+    - all coerced
+
+#### The Democrat
+
+
+
+#### The Cosmopolitan
+
+
+
+##### The Anarchist
