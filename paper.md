@@ -45,6 +45,7 @@ Borders as exogenous vs endogenous...
 
 > "If we take democracy as a decision method, then Whelan's charge against democratic theory misses its target since it is not supposed to deliver any solution to the boundary problem. If we take democracy as a normative ideal, then there seems to be a promising candidate for a boundary principle: the all affected principle." @arrhenius2005 p14
 
+- distinguish between democratic theories, democratic processes, and democratic values.
 
 ### The Cosmopolitan
 
