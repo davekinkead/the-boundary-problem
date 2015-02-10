@@ -3,6 +3,28 @@
 
 ## @dahl1970
 
+Dahl defines the Boundary problems as "who should participate in the government of a democratic association" (p60 ) and notes it is "a curiously neglected and yet absolutely crucial problem" (p59) where there is "no theoretical solution to the puzzle, only pragmatic ones" (p59)
+
+  - if democracy means rule by the people, then we need to clarify what we mean by rule and by people
+  - how we define the _people_ automatically determines the way in which they can _rule_
+  - and how we define _rule_ necessarily sets bounds on how we define _people_
+
+This is distinct from suffrage - which citizens among the people should be permitted to participate.
+
+It is "a problem almost totally neglected by all the great political philosophers who write about democracy" p60
+
+"Succession is an effort to reconstitute the people into two peoples" p61  "More often than not these debates are settled by force and ratified by history: the philosophers take up where history leaves off" p62
+
+"Democracy cannot be a single form of authority but a multiplicity of forms." p63
+
+Principle of Affected Interests is typically offered as a solution and "is very likely the best general principle of inclusion that you are likely to find":
+
+> "Everyone who is affected by the decisions of a government should have the right to participate in that government" p64
+
+But what affects my interest depends on subjective factors (p66) which leads to global government and clashes with the criterion of economy.  It does at least provide a prima facie case for those affected.  Alternatively, it requires a different association for every set of affected people.
+
+Dahl describes the issue in terms of democratic coherence but his primary concern is with democratic authority.
+
 
 ## @whelan1983
 
@@ -82,6 +104,9 @@ These other principles fail to 'command general respect' p40
 
 
 ## @dahl1989
+
+
+## @held1992
 
 
 ## @arrhenius2005
@@ -197,6 +222,21 @@ The constraining version could be realised with a "not “no spillovers” but, 
 "Purely as a matter of democratic third best, the price of not enfranchising everyone we ideally should is that we would have to pay them off for any harms we inflict upon them and accede to their demands for fair recompense for any benefits we derive from the wrongfully disenfranchised." p68
 
 
+## @miller2009
+
+
+## @agné2010
+
+
+## @owen2012
+
+
+## @abizadeh2012
+
+
+## @schaffer2012
+
+
 ## @saunders2012
 
 Saunders defines the boundary problem as the issue of who is to be included concerns both spatial outsiders and internal exclusions. p295
@@ -266,10 +306,6 @@ Compensation may be a viable alternative to inclusion or enfranchisement "If our
 "Thus, it seems (1) that groups have the right to act as their members see fit, provided that they do not violate the rights of any outsiders, regardless of whose interests may be affected, and (2) that groups ought to be prohibited from violating rights without permission." p293
 
 "If democracy requires all members of the community to be willing to bear short-term losses for the benefit of others, democratic arrangements are likely to function more smoothly where the people are united by a sense of solidarity." p294
-
-
-## @abizadeh2012
-
 
 
 ## @song2012
@@ -384,6 +420,7 @@ Contexts of interdependent interests: the "circumstances in which the realizatio
 >  - both however, fail to answer the question of who should be bounded by what
 
 
+## @espejo2014
 
 
 # To Investigate

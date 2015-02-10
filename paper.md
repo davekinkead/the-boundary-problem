@@ -117,4 +117,3 @@ The Boundary problem undermines these accounts because some accounts of inclusio
   - @simmons2013 Democratic Authority and the Boundary Problem
   - @song2012 The Boundary Problem in Democratic Theory
   - @whelan1983 Democratic Theory and the Boundary Problem
-
