@@ -38,8 +38,7 @@ He position is "not only that the drawing of boundaries around these units is a 
 
 There is also "the second problem that the establishment of boundaries ... generally predetermines the outcomes of substantive political issues." p41
 
-
-#### Argument Outline (p13)
+*Argument Outline* (p13)
 
 1. Democracy always makes reference to a determinate community of people who are collectively self-governing. 
 2. All democratic theory faces the logically prior question of who the people should be.
@@ -51,8 +50,7 @@ Boundary drawing and determination of political membership is perhaps the most f
 
 Effective democracies require broad consensus on fundamental matters of inclusion. Their boundaries must be recognised as fair and appropriate. p41
 
-
-#### All-Affected Principle
+*All-Affected Principle*
 
 Intuitively, all those affected by some policy ought have a voice in making it. (p16) The intuition is clear when burdens are to be imposed but not so clear that those receiving benefits ought have a say in the matter. (p17)
 
@@ -60,22 +58,19 @@ Yet, every decision affects people differently. Constituency would need to be de
 
 Deeper still, determining who is affected by an issue requires a prior determination of constituency, which cannot be made by those affected as this is the very question to be settled. p19
 
-
-#### Territorial States
+*Territorial States*
 
 The people can be defined by historical accident - those in a state are the people. But this can't solve the boundary problem when territorial issues are in dispute.
 
 "Democracy can be practiced for making collective decisions once the collectivity has been defined, but democratic methods themselves are inadequate to establish the bounds of the collectivity, whose existence democratic theory simple pre-supposes." p22
 
-
-#### Consent
+*Consent*
 
 Constituting by consent would define the people as who ever consents to being one of them.  This is plausible for voluntary organisations but requires unanimity on who is included and who is excluded. p26
 
 But States are territorial and compulsory associations whose agreement is never unanimous. 
 
-
-#### Nationality
+*Nationality*
 
 Nationality and ethnicity have also been suggested as ways to demarcate the people - the UN recognises the right of self-determination for peoples.  The objections to these are many:
 
@@ -87,8 +82,7 @@ Nationality and ethnicity have also been suggested as ways to demarcate the peop
 
 These reasons seem to clash with democratic values such s voluntarism, freedom and rationality. p31
 
-
-#### Geography & Salience
+*Geography & Salience*
 
 Human distribution seems to drive grouping and connection. Those closest share common ends. Yet...
 
@@ -96,7 +90,7 @@ Physical features are a matter of perspective. Rivers divide as much as unite co
 Economic patterns develop in response to political boundaries, just as much as they form common bonds. p35
 
 
-#### Autonomy
+*Autonomy*
 
 Size of a democratic people determines both its citizen effectiveness and system capacity (see Dahl 1973 Size & Democracy).  Yet autonomy suffers the same problem as the all-affected principle - constituting the people on a per-issue basis, or changing them over time.
 
@@ -232,7 +226,6 @@ He hints that a solution to the BP must be congruent with the aims of democracy.
 
 ## @goodin2007
 
-
 Goodin defines the boundary problem as "How do we specify the group making those decisions?" but prefers to call it the problem of “constituting the demos.” p40 
 
 His position is that the "democratic ideal ought ideally be to enfranchise “all affected interests.” Understood in a suitably expansive “possibilistic” way, that would mean giving virtually everyone everywhere a vote on virtually everything decided anywhere." p68
@@ -292,6 +285,43 @@ The constraining version could be realised with a "not “no spillovers” but, 
 
 
 ## @schaffer2012
+
+Schaffer defines the problem as "how to delimit the political community relevant for democracy." p2
+
+His argument is against the all affected principle - that it "does not actually give any guidance for delineating a political community but that it does give some absurd recommendations if we were to try to approximate it in political decision making." p3
+
+It's appeal is obvious - "the all-affected principle seems to expound some classical democratic notions about autonomy and consent...." Aristotle's "ruling and being ruled in turn"....Roman law "what concerns all, all must discuss and approve" ... "liberty means living according to laws that you have given yourself" p3
+
+But the AAP requires a complementary theory about affectedness - this might be an objective claim or subjective one.  One definition could be "you are affected when something bad happens to you through no fault of your own." p4
+
+However, "different people will count as affected by the same decision depending on which theory of affectedness we choose" p5
+
+Also (incorrectly) notes that the AAP results in a regress (but this only occurs when attempting to solve the BP with a democratic procedure) p8
+
+The AAP does however result in fickle boundaries - different jurisdictions for each issue. p9  This threatens democratic rights as these are dependent on political equality _within_ units. p10
+
+The all-affected principle has two components: to participate in making a decision and to be affected by that decision.... "the all-affected principle is equally satisfied if you participate in making a decision that affects you or if you do not participate in making a decision that does not affect you." p11
+
+Agne's maximal autonomy principle: p15
+
+> that people be included in political procedures to the extent that their inclusion yields the greatest amount of autonomy to the greatest number of people, while accounting for both those whose who are included and those who are excluded, and accounting for actions performed both individually and collectively.
+
+"borders by their very nature affect both those who are included and those who are excluded, a conceptual feature of borders that the all-affected principle cannot escape" p15
+
+One consequence however is it becomes " legitimate to rob some people of their autonomy to maximise aggregate autonomy for everyone" p16
+
+"Democratic autonomy implies living by laws that you have given yourself and having means by which to assert your interests against the government." p17
+
+"This subject- to-the-law principle, as I call it, solves some, if not all, of the problems that follow from the all-affected principle." p17 - No it doesn't, it completely ignore the issue of who should be subjected in the first place!
+
+"Neither of the three alternatives considered here solve the fundamental boundary problem in democratic theory, but they all advance upon the indeterminate all-affected principle. The subject-to- the-law principle seems to be least problematic, substantiating a precise claim: that any already existing lawgiver should be democratically governed by those subject to the laws it issues." p21
+
+Perhaps the problem is unsolvable "these attempts to solve the boundary problem demonstrate that it is unsolvable in principle: a community cannot lift itself by the hair and provide its own democratic justification" ... "we can still solve boundary problems in both theory and practice, but we cannot always justify such solutions in terms of democratic principles." p22
+
+On Chris Brown: p22
+
+> “Politics is about practical action in a realm where no answer can be other than provisional, not about the application of formulae concerning matters such as social justice – and it ought not to be surprising that when formulaic approaches are made to subjects such as the legitimacy of borders the argument quite soon breaks down.”
+
 
 
 ## @saunders2012
