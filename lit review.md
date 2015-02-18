@@ -159,6 +159,10 @@ Non-Solutions (p196)
 
 ## @held1992
 
+The liberal in Liberal Democracy is not a simply unity. p13
+
+Not really on the Boundary Problem....
+
 
 ## @arrhenius2005
 
@@ -274,11 +278,63 @@ The constraining version could be realised with a "not “no spillovers” but, 
 
 ## @miller2009
 
+Miller defines the problem as "who should be included in the _demos_,  or constituency when democratic decisions are taken" p201 or "how should the political units within which democracy will be practiced be constituted?" p202
+
+It is a question primarily about people rather than territory and is driven by three primary concerns: p202  
+
+  - transnational or global democracy
+  - political seccession 
+  - immigration
+
+It is not obvious that democracy is any help on this issue. "Ateempts to propose criteria from the outside simply reveal a disagreement about what makes a person fit to participate in democratic politics" p202
+
+This might be because "there is no simple entailment from democratic principles to the choice of political unit...or it might mean that the criteria ... are not themselves democratic." p203
+
+Two reasons we shoudl try and solve the BP with a democratic approach: p203
+
+ - without democracy, we become emeshed in controversy as non-democratic substantive ideals are hotly contested.
+ - there is inutitive discomfort with an abitrary approach from the democratic perspective.
+
+Democratic solutions are only circular if we limit our view of democracy as procedural.   While there is no reason to believe majority voting from arbitrary boundaries will settle into an acceptable equalibrium, democratic values can also be used. See @arrhenius2005 on conflating process and ideals. p204
+
+If we want to solve the BP with democratic ideals, we need to be clear on what they are.  Miller describes two conceptions of democracy - Liberal and Radical: p205
+
+  - L-democrats understand democracy in instrumental terms "democracy serves freedom by protecting members of the demos from domination, and that democracy promotes welfare by ensuring that political decisions track the aggregate interests of its constituency."
+
+  - R-democrats understand democracy in intrinsic terms "the idea of collective self-determination and stands at the heart of democratic theory".  It is not only the outcomes that are important but the manor in which they are achieved.
+
+LD concerns of constituency will primarily relate to impact of decisions. RD concerns of constituency will primarily relate to to the quality of the demos itself. p206
+
+
+RD concerns suggest exclusion:
+
+  - mutual solidarity and identification is easier in small homogeneous groups. p208
+  - underlying agreement on ethical issues is necessary for cohesion. p208
+  - interpersonal trust between citizens is needed. p209
+  - the group must be stable over time. p209
+
+But there are a number of reasons RD's would want more inclusion:
+
+  - small polities may be internally effective but lack external impact or system capacity. p210
+  - decision quality is higher when people are free to express dissenting views. p209
+
+LD concerns point to inclusion:
+
+  - unless completely homogeneous, multiple group identities make oppression by a majority less likely. p211
+  - segmentation means dominant views in one area can be opposed in another. p211
+
+But the counter reasons towards exclusion are:
+
+  - Mill's "free institution" are only possible in societies whose member shared a common national identity. p211
+  - respect for law and dissent are only possible when common sympathies create sufficient solidarity between groups. p212
+
+
 
 ## @agné2010
 
 
 ## @owen2012
+
 
 
 ## @abizadeh2012
@@ -359,7 +415,6 @@ Perhaps the problem is unsolvable "these attempts to solve the boundary problem 
 On Chris Brown: p22
 
 > “Politics is about practical action in a realm where no answer can be other than provisional, not about the application of formulae concerning matters such as social justice – and it ought not to be surprising that when formulaic approaches are made to subjects such as the legitimacy of borders the argument quite soon breaks down.”
-
 
 
 ## @saunders2012

@@ -8,10 +8,14 @@ license: CC-BY-NC-SA
 
 # What's the Problem with the Boundary Problem?
 
+Despite increasing awareness of the Boundary Problem, we are no closer to solving it.  This is because the Boundary Problem is really three problems. Each of these problems can be answered individually but not collectively. 
+
 This paper is motivated by the crossed wires I experiences during a presentation I gave at the AAP2014.  There appears to be considerably different conceptions of what the Boundary Problem is.  People seem to be approaching the problem from very different perspectives and these differences, I will argue, contribute to the current intractability of the problem.
 
-A rough outline....
-
+  - what's the boundary problem
+  - it's really three problems
+  - we may be able to solve these problems individually 
+  - but we can't solve them collectively
 
 ### So what's the Boundary Problem?
 
@@ -46,6 +50,8 @@ Borders as exogenous vs endogenous...
 > "If we take democracy as a decision method, then Whelan's charge against democratic theory misses its target since it is not supposed to deliver any solution to the boundary problem. If we take democracy as a normative ideal, then there seems to be a promising candidate for a boundary principle: the all affected principle." @arrhenius2005 p14
 
 - distinguish between democratic theories, democratic processes, and democratic values.
+
+- held talks about L & R democrats (liberal & radical).  The substantive values of R-democracy require solidarity and group identification while those of L-democrats require protection of liberty.
 
 ### The Cosmopolitan
 
