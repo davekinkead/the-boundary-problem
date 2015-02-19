@@ -13,9 +13,9 @@ This is distinct from suffrage - which citizens among the people should be permi
 
 It is "a problem almost totally neglected by all the great political philosophers who write about democracy" p60
 
-"Succession is an effort to reconstitute the people into two peoples" p61  "More often than not these debates are settled by force and ratified by history: the philosophers take up where history leaves off" p62
+> "Succession is an effort to reconstitute the people into two peoples" p61  "More often than not these debates are settled by force and ratified by history: the philosophers take up where history leaves off" p62
 
-"Democracy cannot be a single form of authority but a multiplicity of forms." p63
+> "Democracy cannot be a single form of authority but a multiplicity of forms." p63
 
 Principle of Affected Interests is typically offered as a solution and "is very likely the best general principle of inclusion that you are likely to find":
 
@@ -34,7 +34,7 @@ It is not a problem of geographic per se, "but the membership of the democratic 
 
 He position is "not only that the drawing of boundaries around these units is a significant problem for democratic theory and practice, but that democratic theory itself offers no clear guidance on the matter."  The boundary problem "thus present(s) an important practical limit to the scope of democracy as a method of making collective decisions." p13
 
-"Democracy is advanced by its advocates as the sole legitimate method for making political decisions..." but the boundary problem "...is insoluble within the framework of democratic theory..." p16 making "controversies over boundaries among the most intractable and bitter types of political conflict." p40
+> "Democracy is advanced by its advocates as the sole legitimate method for making political decisions..." but the boundary problem "...is insoluble within the framework of democratic theory..." p16 making "controversies over boundaries among the most intractable and bitter types of political conflict." p40
 
 There is also "the second problem that the establishment of boundaries ... generally predetermines the outcomes of substantive political issues." p41
 
@@ -62,7 +62,7 @@ Deeper still, determining who is affected by an issue requires a prior determina
 
 The people can be defined by historical accident - those in a state are the people. But this can't solve the boundary problem when territorial issues are in dispute.
 
-"Democracy can be practiced for making collective decisions once the collectivity has been defined, but democratic methods themselves are inadequate to establish the bounds of the collectivity, whose existence democratic theory simple pre-supposes." p22
+> "Democracy can be practiced for making collective decisions once the collectivity has been defined, but democratic methods themselves are inadequate to establish the bounds of the collectivity, whose existence democratic theory simple pre-supposes." p22
 
 *Consent*
 
@@ -74,11 +74,11 @@ But States are territorial and compulsory associations whose agreement is never 
 
 Nationality and ethnicity have also been suggested as ways to demarcate the people - the UN recognises the right of self-determination for peoples.  The objections to these are many:
 
-- "No single objective criterion of nationality appears definitive." p29
-- States govern many nations of people.
-- State determine nations as much as nations determine states ie the Soviet people, the Yugoslavian people.
-- People may wish to align themselves non-ethnically.
-- The nationalist principle is non-voluntaristic. 
+  - "No single objective criterion of nationality appears definitive." p29
+  - States govern many nations of people.
+  - State determine nations as much as nations determine states ie the Soviet people, the Yugoslavian people.
+  - People may wish to align themselves non-ethnically.
+  - The nationalist principle is non-voluntaristic. 
 
 These reasons seem to clash with democratic values such s voluntarism, freedom and rationality. p31
 
@@ -104,7 +104,7 @@ This time Dahls describes the problem as the problem of the unit or the question
   1. The Problem of Inclusion: What persons have a rightful claim to be included in the demos?
   2. The scope of its authority: What rightful limis are there on the control of a demos? Is alienation ever morally permissable?
 
-" The question of inclusion would present a less serious challenge if a demos could enact rules that were only binding on itself." p119  The problem isn't as serious for voluntary associations.
+> "The question of inclusion would present a less serious challenge if a demos could enact rules that were only binding on itself." p119  The problem isn't as serious for voluntary associations.
 
 One response is to rely on _contingent citizenship_ - the accidents of history.  This however lacks normative force but it's strongest propoent was Schumpter - the rule of the Soviet Union by the Bolshevik party doesn't make it undemocratic unless the party is rulled undemocratically. This is "truely no solution at all" p121
 
@@ -119,7 +119,7 @@ Citizenship can also be viewed as a _categorical right_.
 
 Classical and modern scholars such as Mill, Rouseau, and Locke prioritised the contingent over categorical claims. p126
 
-"The Problem of the Unit"
+> "The Problem of the Unit"
 
 > To the extent that the unit within which majority rule operates is unjustifiable, then majority rule is unjustifiable in that unit. p193
 
@@ -184,13 +184,13 @@ The argument:
   - A theory can be accepted as a normative ideal but rejected as a decision rule
   - Democracy is one such theory
 
-"Someone who takes democracy as a practical decision method justified by a normative ideal doesn’t hold that democracy is the foundation of legitimate government but that its legitimacy derives from the ideal." p5
+> "Someone who takes democracy as a practical decision method justified by a normative ideal doesn’t hold that democracy is the foundation of legitimate government but that its legitimacy derives from the ideal." p5
 
-"If we take democracy as a practical decision method and again raise the question of who should take part in which decision procedures, it seems clear that this has to be answered by the normative ideal that motivated the choice of democracy in the first place" p7
+> "If we take democracy as a practical decision method and again raise the question of who should take part in which decision procedures, it seems clear that this has to be answered by the normative ideal that motivated the choice of democracy in the first place" p7
 
 > So it appears that instrumental accounts of democracy aren't bothered by the regress objection.
 
-"if we see the all affected principle as part of a democratic ideal, then whether or not a decision is democratic, or whether it is more or less democratic, will depend on some conception of “relevantly affected”" p9
+> "if we see the all affected principle as part of a democratic ideal, then whether or not a decision is democratic, or whether it is more or less democratic, will depend on some conception of “relevantly affected”" p9
 
 When taken as a normative ideal rather than a decision mechanism, the All-Affected Principle overcomes Whelan's objections. p12  Affected Interest could have some causal constraint that suggests a federal structure and objectively optimal jurisdiction boundaries.
 
@@ -209,23 +209,23 @@ Bergström defines the boundary problem as "if ”democracy” is government “
 
 His claim is that democratic theory can solve the boundary problem but that "a democratic solution is not necessarily a good solution."  And while we could try and find _good_ non-democratic solutions, "according to democratic theory political problems should be handled by democratic methods, not by normative principles." p24
 
-"democratic theory has ... started from the implicit assumption that the boundary problem is solved – or can be ignored – in practice." p4
+> "democratic theory has ... started from the implicit assumption that the boundary problem is solved – or can be ignored – in practice." p4
 
-"even if there is no suitable and general principle for the solution of boundary problems, it might be still held that such problems can nevertheless be solved by democratic methods in particular cases" p5
+> "even if there is no suitable and general principle for the solution of boundary problems, it might be still held that such problems can nevertheless be solved by democratic methods in particular cases" p5
 
-"This indicates that there are really two different kinds of boundary problems. One kind consists of decision problems, which are solved when certain decisions are made – at least if they are made by the relevant political authority in accordance with the relevant rules of decision making. The other kind consists of normative problems, which are solved when someone finds out what decision ought to be made or ought to have been made in a certain case or kind of case." p7
+> "This indicates that there are really two different kinds of boundary problems. One kind consists of decision problems, which are solved when certain decisions are made – at least if they are made by the relevant political authority in accordance with the relevant rules of decision making. The other kind consists of normative problems, which are solved when someone finds out what decision ought to be made or ought to have been made in a certain case or kind of case." p7
 
 Just because a decision can be reached through a democratic process, doesn't mean that the decision is the right one, nor that a problem has been solved.  The issue is why we should be morally bound by democratic outcomes.
 
-"I conclude that the all-affected principle is quite unacceptable as a general rule for all political decisions. However, it might still be acceptable in the particular case of decisions concerning boundary problems." p14
+> "I conclude that the all-affected principle is quite unacceptable as a general rule for all political decisions. However, it might still be acceptable in the particular case of decisions concerning boundary problems." p14
 
-"we are concerned with the problem of finding some practically useful way of handling boundary problems." p17
+> "we are concerned with the problem of finding some practically useful way of handling boundary problems." p17
 
 He hints that a solution to the BP must be congruent with the aims of democracy. p21
 
-"The claim that the boundary problem cannot be solved within democratic theory can be understood in different ways. On one rather natural interpretation it is false. So Dahl and Whelan are wrong." p23
+> "The claim that the boundary problem cannot be solved within democratic theory can be understood in different ways. On one rather natural interpretation it is false. So Dahl and Whelan are wrong." p23
 
-"Moral philosophers have a tendency to believe that normative problems can be solved by normative principles. Unfortunately, this is a very problematic assumption. In political contexts, it is probably often mistaken. Fortunately, there are other ways of handling political problems." p24
+> "Moral philosophers have a tendency to believe that normative problems can be solved by normative principles. Unfortunately, this is a very problematic assumption. In political contexts, it is probably often mistaken. Fortunately, there are other ways of handling political problems." p24
 
 
 ## @goodin2007
@@ -243,37 +243,37 @@ Bob argument is:
 
 Democracy can be defined semi-circularly as "groups of people making collective decisions in a democratic way." p40
 
-"“Constituting the demos” is therefore a problem that finds no ready solution, either within democratic theory or in any of the seemingly cognate areas of political philosophy." p42
+> "“Constituting the demos” is therefore a problem that finds no ready solution, either within democratic theory or in any of the seemingly cognate areas of political philosophy." p42
 
-"The natural place to look for a solution is indeed in the vicinity of democratic theory itself, and I shall argue that we can indeed find one there — but not without some surprises along the way." p42
+> "The natural place to look for a solution is indeed in the vicinity of democratic theory itself, and I shall argue that we can indeed find one there — but not without some surprises along the way." p42
 
-"Until we have an electorate we cannot have an election. That is not just a temporal observation; it is a logical truth......like saying the winning lottery ticket will be pulled out of the hat by the winner of that selfsame lottery" p43
+> "Until we have an electorate we cannot have an election. That is not just a temporal observation; it is a logical truth......like saying the winning lottery ticket will be pulled out of the hat by the winner of that selfsame lottery" p43
 
-"The need to appeal to some principle outside democracy to constitute the demos does not render democratic theory incoherent, merely incomplete." p44
+> "The need to appeal to some principle outside democracy to constitute the demos does not render democratic theory incoherent, merely incomplete." p44
 
 Empiric answers are difficult: "More generally, unless we know what the right way to constitute the demos is in the first place, we have no way to know whether any given empirical tendencies within democratic politics will, as this argument asserts, lead them to (re)constitute the demos in precisely the right way." p45
 
-"Constituting a demos on the basis of shared territory or history or nationality is thus only an approximation to constituting it on the basis of what really matters, which is interlinked interests" p49
+> "Constituting a demos on the basis of shared territory or history or nationality is thus only an approximation to constituting it on the basis of what really matters, which is interlinked interests" p49
 
-"The “all affected interests” principle is the standard by which the adequacy of those other approximations is invariably assessed." 49
+> "The “all affected interests” principle is the standard by which the adequacy of those other approximations is invariably assessed." 49
 
-"Protecting people’s interests is thus the most plausible candidate principle for bringing the “who” and the “how” of democratic politics into alignment." p50
+> "Protecting people’s interests is thus the most plausible candidate principle for bringing the “who” and the “how” of democratic politics into alignment." p50
 
-"the “all affected interests” principle is fundamentally egalitarian, counting all interests equally; and equal political power is arguably the cornerstone of democracy....What matters is that constituting the demos in that way is consonant with our settled views about what it is to “make collective decisions in a democratic way” at the procedural level." p50
+> "the “all affected interests” principle is fundamentally egalitarian, counting all interests equally; and equal political power is arguably the cornerstone of democracy....What matters is that constituting the demos in that way is consonant with our settled views about what it is to “make collective decisions in a democratic way” at the procedural level." p50
 
 On acutal affected interests: "which interests are “actually affected” depends on who gets to vote. Hence it is incoherent to try to deter- mine who should get to vote by asking whose interests are actually affected by the course of action actually decided upon." p53
 
-"More generally, you are rightly said to be “affected,” not merely by the “course of action actually decided upon,” but also by the range of alternative courses of action from which that course was chosen. Further- more, you are rightly said to be “affected,” not merely by what the consequences of that decision actually turn out to be, but also by what the consequences might have turned out to be" p54
+> "More generally, you are rightly said to be “affected,” not merely by the “course of action actually decided upon,” but also by the range of alternative courses of action from which that course was chosen. Further- more, you are rightly said to be “affected,” not merely by what the consequences of that decision actually turn out to be, but also by what the consequences might have turned out to be" p54
 
-"By embracing all possible worlds, politically, this expansive conception of “all possibly affected interests” causes the franchise to balloon dramatically and the scope for legitimate exclusions to shrink accordingly." p55
+> "By embracing all possible worlds, politically, this expansive conception of “all possibly affected interests” causes the franchise to balloon dramatically and the scope for legitimate exclusions to shrink accordingly." p55
 
-"Even if, per the “all affected interests” principle, we give a vote to everyone who is affected, that does not necessarily imply that the demos is empowered to decide by voting upon everything that affects its members." p62
+> "Even if, per the “all affected interests” principle, we give a vote to everyone who is affected, that does not necessarily imply that the demos is empowered to decide by voting upon everything that affects its members." p62
 
 So we can restrict the scope of democratic action on only those affected - "The “all affected interests” standard can thus be satisfied in either of two ways. One is by expanding the franchise, giving a say to all those who would be affected. Another is by restricting the power of the demos, so it is only allowed to make decisions that affect only those who do have a say." p63
 
 The constraining version could be realised with a "not “no spillovers” but, rather, “no uncompensated spillovers.” p 66
 
-"Purely as a matter of democratic third best, the price of not enfranchising everyone we ideally should is that we would have to pay them off for any harms we inflict upon them and accede to their demands for fair recompense for any benefits we derive from the wrongfully disenfranchised." p68
+> "Purely as a matter of democratic third best, the price of not enfranchising everyone we ideally should is that we would have to pay them off for any harms we inflict upon them and accede to their demands for fair recompense for any benefits we derive from the wrongfully disenfranchised." p68
 
 
 ## @miller2009
@@ -341,7 +341,7 @@ Miller lists four problems with the affected-interest principle:
   - affect occurs in different degrees p216
   - affect doesn't normally seem to entail a right to participate p218
 
-"Widening the demos may change its character and/or the decision procedures it uses, and these in turn will alter the quality of the decisions takes, and their impact on different groups of people .... The circularity problem runs deep."
+> "Widening the demos may change its character and/or the decision procedures it uses, and these in turn will alter the quality of the decisions takes, and their impact on different groups of people .... The circularity problem runs deep."
 
 Coercion on the other hand has the following characteristics: p219
 
@@ -353,11 +353,11 @@ Coercion on the other hand has the following characteristics: p219
 
 Coercion differs from prevention.  Miller has a poor example on p220
 
-"I have that what is distinctive about coercion is suggested normatively that it undermines the autonomy of the person coerced" p221
+> "I have that what is distinctive about coercion is suggested normatively that it undermines the autonomy of the person coerced" p221
 
 The web of laws in a democratic state is sufficiently coercive to require justification because the coercion is unavoidable. "Their unavoidable coercion can only be made legitimate by the opportunity they have to influence those decisions." p222
 
-"being coerced by a demos does generate a claim for inclusion that is far stronger than any claim that the affected interests principle is likely to generate" p225
+> "being coerced by a demos does generate a claim for inclusion that is far stronger than any claim that the affected interests principle is likely to generate" p225
 
 Miller offers some solutions:
 
@@ -366,7 +366,7 @@ Miller offers some solutions:
 
 The BP requires striking a balance between an internally functioning demos and its external effects, and this balance will be swayed by whether one is an L or R democrat. p226
 
-"Wherewe already have a well-functioning democracy, this is a prima facie reason not to alter its domain" p227
+> "Wherewe already have a well-functioning democracy, this is a prima facie reason not to alter its domain" p227
 
 To solve the BP, we need to ask:
 
@@ -379,7 +379,7 @@ To solve the BP, we need to ask:
 
   "Instead they are questions that must be debated within existing demoi whenever proposals for altering boundaries appear on the agenda" p228
 
-"One reason for thinking that domain questions can only be resolved internally is that each demos will have its own conception of democracy" p228
+> "One reason for thinking that domain questions can only be resolved internally is that each demos will have its own conception of democracy" p228
 
 
 
@@ -396,13 +396,13 @@ Abizadeh defines the boundary problem as "determining who is a member of the col
 
 His argument is  "once we recognize that the demos is in principle unbounded, and abandon the quest for a prepolitical ground of legitimacy, can democratic theory fully avoid this collapse of demos into nation into ethnos. But such a theory departs radically from traditional theory." p867
 
-"My thesis is that only a recognition that the demos is in principlesiple unbounded can yield a coherent theory of democratic legitimacy." p868
+> "My thesis is that only a recognition that the demos is in principlesiple unbounded can yield a coherent theory of democratic legitimacy." p868
 
 Democratic theory seeks  "to legitimize political power by rendering it compatible with the freedom of those over whom it is exercised."  It is "a self-referential theory of political legitimacy...[whose] principle of legitimacy refers right back to the very persons over whom political power is exercised." p867
 
-"Self-referential theories necessarily combine two questions that are in principle distinct....question of legitimacy...[and]...the question of boundaries" p867
+> "Self-referential theories necessarily combine two questions that are in principle distinct....question of legitimacy...[and]...the question of boundaries" p867
 
-"The striking feature of self-referential theories is that a second question must consequently be addressed before the question of legitimacy can be determinately answered. " p867
+> "The striking feature of self-referential theories is that a second question must consequently be addressed before the question of legitimacy can be determinately answered. " p867
 
 So "if legitimization requires ... prepolitical grounds, then the grounds for adjudicating those boundaries ... must also be prepolitical..." but "...it is impossible consistently and jointly to solve the two problems that self-referential theories combine." p868
 
@@ -410,25 +410,25 @@ The descriptive question ask "what legitimates political power in a particular s
 
 Cultural nationalism relies on ethnic considerations pp869-873
 
-"We need to know who is _legitimately_ in or out because self-referential doctrines purport to furnish a ground for legitimizing political power, and constituting political boundaries is one of the most important ways in which political power is exercised over persons" p873
+> "We need to know who is _legitimately_ in or out because self-referential doctrines purport to furnish a ground for legitimizing political power, and constituting political boundaries is one of the most important ways in which political power is exercised over persons" p873
 
-"Thus political power is legitimized not by tradition, not by virtue, not by genealogy, but by the demos itself." .... "Specifying the ground for democratic legitimacy therefore clearly re- quires specifying both (a) what procedures give legiti- mate expression to the people’s collective will and (b) who the people in question is." p874
+> "Thus political power is legitimized not by tradition, not by virtue, not by genealogy, but by the demos itself." .... "Specifying the ground for democratic legitimacy therefore clearly re- quires specifying both (a) what procedures give legiti- mate expression to the people’s collective will and (b) who the people in question is." p874
 
-"It is a problem that arises precisely because the democratic principle of legitimacy is not only self-referential, but also constitutively political: It assumes that the ground of legitimacy is the people’s politically expressed collective will, itself some function of individual members’ wills."p874
+> "It is a problem that arises precisely because the democratic principle of legitimacy is not only self-referential, but also constitutively political: It assumes that the ground of legitimacy is the people’s politically expressed collective will, itself some function of individual members’ wills."p874
 
-"If laws must be the outcome of certain kinds of procedures, then the democratic legitimacy of the laws governing the procedures themselves seems to face the same kind of infinite regress as boundaries." p874  "Which political procedures legitimately articulate the will of the people cannot itself be wholly determined by interrogating the people’s will." p875
+> "If laws must be the outcome of certain kinds of procedures, then the democratic legitimacy of the laws governing the procedures themselves seems to face the same kind of infinite regress as boundaries." p874  "Which political procedures legitimately articulate the will of the people cannot itself be wholly determined by interrogating the people’s will." p875
 
 Social contract theory is an "utter failure as a response to the boundary problem..." because "civic boundaries pose an externality problem" on outsiders and require the consent of everyone.  "Boundaries require not just consent, but serial consent." p875
 
-"_bounded demos thesis_ -- the fact that the people is bounded is given prior to the exercise of political power and independent of any individual’s will." ... "For these theorists, the boundary problem is supposed to demonstrate that legitimizing particular boundaries requires turning to a principle external to democratic theory itself" p876 
+> "_bounded demos thesis_ -- the fact that the people is bounded is given prior to the exercise of political power and independent of any individual’s will." ... "For these theorists, the boundary problem is supposed to demonstrate that legitimizing particular boundaries requires turning to a principle external to democratic theory itself" p876 
 
-"_un-boundedness of subjection_ -- the act of constituting boundaries circum- scribing political rights is always an exercise of power over both insiders and outsiders that, by the very act, purports to disenfranchise the outsiders over whom power is exercised" p877
+> "_un-boundedness of subjection_ -- the act of constituting boundaries circum- scribing political rights is always an exercise of power over both insiders and outsiders that, by the very act, purports to disenfranchise the outsiders over whom power is exercised" p877
 
 The Schumpter response: "If having boundaries is necessarily presupposed by the democratic exercise of political power, then any particular boundary will do: The particular boundary may be arbitrary, but drawing it somewhere is not, and that is all there is to it "
 
-"I take it that democracy is better understood as an attempt to legitimize the collective and political exercise of power." Given the fact of power, the demos is prepolitically unbounded and can be settled by a global demos (???) p880
+> "I take it that democracy is better understood as an attempt to legitimize the collective and political exercise of power." Given the fact of power, the demos is prepolitically unbounded and can be settled by a global demos (???) p880
 
-"Almost all existing theories assume that democratic polities have the right unilaterally to regulate their own membership" ... but ... " the unbounded demos thesis presumptively implies the contrary" pp880
+> "Almost all existing theories assume that democratic polities have the right unilaterally to regulate their own membership" ... but ... " the unbounded demos thesis presumptively implies the contrary" pp880
 
 
 ## @schaffer2012
@@ -453,15 +453,15 @@ Agne's maximal autonomy principle: p15
 
 > that people be included in political procedures to the extent that their inclusion yields the greatest amount of autonomy to the greatest number of people, while accounting for both those whose who are included and those who are excluded, and accounting for actions performed both individually and collectively.
 
-"borders by their very nature affect both those who are included and those who are excluded, a conceptual feature of borders that the all-affected principle cannot escape" p15
+> "borders by their very nature affect both those who are included and those who are excluded, a conceptual feature of borders that the all-affected principle cannot escape" p15
 
 One consequence however is it becomes " legitimate to rob some people of their autonomy to maximise aggregate autonomy for everyone" p16
 
-"Democratic autonomy implies living by laws that you have given yourself and having means by which to assert your interests against the government." p17
+> "Democratic autonomy implies living by laws that you have given yourself and having means by which to assert your interests against the government." p17
 
-"This subject- to-the-law principle, as I call it, solves some, if not all, of the problems that follow from the all-affected principle." p17 - No it doesn't, it completely ignore the issue of who should be subjected in the first place!
+> "This subject- to-the-law principle, as I call it, solves some, if not all, of the problems that follow from the all-affected principle." p17 - No it doesn't, it completely ignore the issue of who should be subjected in the first place!
 
-"Neither of the three alternatives considered here solve the fundamental boundary problem in democratic theory, but they all advance upon the indeterminate all-affected principle. The subject-to- the-law principle seems to be least problematic, substantiating a precise claim: that any already existing lawgiver should be democratically governed by those subject to the laws it issues." p21
+> "Neither of the three alternatives considered here solve the fundamental boundary problem in democratic theory, but they all advance upon the indeterminate all-affected principle. The subject-to- the-law principle seems to be least problematic, substantiating a precise claim: that any already existing lawgiver should be democratically governed by those subject to the laws it issues." p21
 
 Perhaps the problem is unsolvable "these attempts to solve the boundary problem demonstrate that it is unsolvable in principle: a community cannot lift itself by the hair and provide its own democratic justification" ... "we can still solve boundary problems in both theory and practice, but we cannot always justify such solutions in terms of democratic principles." p22
 
@@ -487,11 +487,11 @@ This is because "individuals may be understood as waiving certain rights where t
 
 History: Carl Cohen(1971:41–54), JackLively(1975:10–12), Frederick G. Whelan (1983), Giovanni Sartori (1987: 21–5), and Robert A. Dahl (1989: 119–31, 1990: 45–51). Abizadeh (2008) Arrhenius (2007) and Goodin (2007).
 
-"Until we know the relevant group of decision-makers, it seems that there is no prospect of a genuinely democratic decision." p281
+> "Until we know the relevant group of decision-makers, it seems that there is no prospect of a genuinely democratic decision." p281
 
-"There is no need for a decision-making group to include all who are affected by a decision." p281
+> "There is no need for a decision-making group to include all who are affected by a decision." p281
 
-"It is frequently claimed that (1) it is unjustifiable for one group to impose costs on outsiders unilaterally, so (2) those outsiders ought to be included in the decision-making process. I will argue that, while the first claim is true, the second does not follow and ought to be rejected." (p282)
+> "It is frequently claimed that (1) it is unjustifiable for one group to impose costs on outsiders unilaterally, so (2) those outsiders ought to be included in the decision-making process. I will argue that, while the first claim is true, the second does not follow and ought to be rejected." (p282)
 
 All Affected Principle: "I believe it is most charitably interpreted as the claim that all those whose interests are affected ought to be enfranchised." p283
 
@@ -502,43 +502,43 @@ Over inclusiveness is a problem because:
 - those unaffected can't be trusted to abstain when they should
 - "dilutes the power of the locals to govern their own lives" p286
 
-"Moral agents are actors, capable of deliberate, reasoned choice, and bound by moral requirements. Moral patients, conversely, are simply those beings deserving of moral consideration. On most views, all moral agents are also moral patients, but the reverse does not hold." p286
+> "Moral agents are actors, capable of deliberate, reasoned choice, and bound by moral requirements. Moral patients, conversely, are simply those beings deserving of moral consideration. On most views, all moral agents are also moral patients, but the reverse does not hold." p286
 
-"Rule in the interests of the people (or affected patients) is not democracy, but guardianship. Democracy is essentially a matter of rule by the people, that is, a matter of their agency" p287
+> "Rule in the interests of the people (or affected patients) is not democracy, but guardianship. Democracy is essentially a matter of rule by the people, that is, a matter of their agency" p287
 
-"Democracy is not simply about the equal satisfaction of different parties’ interests, but about giving people equal (and positive) inputs into what the decisions are. This is why choosing a course of action by lottery, though it shows equal respect for all people’s interests, is not democratic (see Estlund, 2008: 65–84; Goodin, 2004: 99)." p288
+> "Democracy is not simply about the equal satisfaction of different parties’ interests, but about giving people equal (and positive) inputs into what the decisions are. This is why choosing a course of action by lottery, though it shows equal respect for all people’s interests, is not democratic (see Estlund, 2008: 65–84; Goodin, 2004: 99)." p288
 
-"It seems that democracy is, in some sense, a matter of collective agency. " p288
+> "It seems that democracy is, in some sense, a matter of collective agency. " p288
 
-"Democracy is based on respecting people as agents, rather than merely as patients." p288
+> "Democracy is based on respecting people as agents, rather than merely as patients." p288
 
-"All might subscribe to the democratic process because it gives weight to their preferences. They may lose on any given decision, but at least they have a chance of winning next time." p289
+> "All might subscribe to the democratic process because it gives weight to their preferences. They may lose on any given decision, but at least they have a chance of winning next time." p289
 
-"Democratic arrangements are one form of social interaction that impose particular costs on particular agents on particular occasions, but can be justified because in general they are beneficial to all." p289
+> "Democratic arrangements are one form of social interaction that impose particular costs on particular agents on particular occasions, but can be justified because in general they are beneficial to all." p289
 
-"Agents normally face limits on what they can permissibly do. I cannot simply push past you because I am in a rush, for example. Similar limits apply also to collective agents." p289 - this strikes me as a completely incorrect assumption. What can't I push past you, what makes it wrong?
+> "Agents normally face limits on what they can permissibly do. I cannot simply push past you because I am in a rush, for example. Similar limits apply also to collective agents." p289 - this strikes me as a completely incorrect assumption. What can't I push past you, what makes it wrong?
 
 The imposition of costs to insiders is acceptable because they gain 'net benefits in the long term'. This is not true of outsiders. p290
 
-"Thus, the decision-making power of the demos ought to be limited to distributing benefits and burdens internally and not to affecting outsiders (negatively, at least)." p290
+> "Thus, the decision-making power of the demos ought to be limited to distributing benefits and burdens internally and not to affecting outsiders (negatively, at least)." p290
 
-"The decisional power of a group need not, therefore, be limited to what does not affect outsiders, but only to what does not harm outsiders." p290
+> "The decisional power of a group need not, therefore, be limited to what does not affect outsiders, but only to what does not harm outsiders." p290
 
-"we need not enfranchise outsiders in a decision simply because we could benefit them" p290
+> "we need not enfranchise outsiders in a decision simply because we could benefit them" p290
 
-"there are some things that I have the right to do, even if others are adversely affected by my decision" such as business competition. p291
+> "there are some things that I have the right to do, even if others are adversely affected by my decision" such as business competition. p291
 
 Acknowledges his major problem - "Of course, in practice we will need mechanisms to determine what rights people have. These will presumably be undemocratic, because we cannot have a democratic process without a prior determination of who should be included in that process, which merely opens a regress." p291
 
 Compensation may be a viable alternative to inclusion or enfranchisement "If our action infringes on the domain of others’ rights, then we need to obtain their consent. Note that this need not take the form of including them in our democratic procedure." 292
 
-"Simply including someone in a democratic process is not itself sufficient to allow the overriding of their rights." - Very good point p293
+> "Simply including someone in a democratic process is not itself sufficient to allow the overriding of their rights." - Very good point p293
 
-"Including someone in the process of decision-making does not necessarily entitle us to override their rights." p293
+> "Including someone in the process of decision-making does not necessarily entitle us to override their rights." p293
 
-"Thus, it seems (1) that groups have the right to act as their members see fit, provided that they do not violate the rights of any outsiders, regardless of whose interests may be affected, and (2) that groups ought to be prohibited from violating rights without permission." p293
+> "Thus, it seems (1) that groups have the right to act as their members see fit, provided that they do not violate the rights of any outsiders, regardless of whose interests may be affected, and (2) that groups ought to be prohibited from violating rights without permission." p293
 
-"If democracy requires all members of the community to be willing to bear short-term losses for the benefit of others, democratic arrangements are likely to function more smoothly where the people are united by a sense of solidarity." p294
+> "If democracy requires all members of the community to be willing to bear short-term losses for the benefit of others, democratic arrangements are likely to function more smoothly where the people are united by a sense of solidarity." p294
 
 
 ## @song2012
@@ -547,7 +547,7 @@ Song defines the boundary problem as the question of "who are the people? How is
 
 Her position is cosmopolitan approaches to the boundary problem "are insufficiently attentive to the conditions of democracy. Democracy is not merely a set of procedures; it also consists of substantive values and principles." p39
 
-"Whelan is [only] right that we are caught in a vicious circle _if_ we assume that democracy is purely procedural" p42
+> "Whelan is [only] right that we are caught in a vicious circle _if_ we assume that democracy is purely procedural" p42
 
 The Argument:
 
@@ -564,10 +564,10 @@ She then outlines three considerations for bounding the demos: (p39)
 
 Typical accounts that legitimate the people include:
 
-- nationalism (see Walzer 1985)
-- history (see Nasstrom 2007)
-- affected interests (see Shapiro 1999, Young 2000, Gould 2004, Goodin 2007)
-- subject to coercion (see Lopez-Guerra 2005, Abizadeh 2008)
+  - nationalism (see Walzer 1985)
+  - history (see Nasstrom 2007)
+  - affected interests (see Shapiro 1999, Young 2000, Gould 2004, Goodin 2007)
+  - subject to coercion (see Lopez-Guerra 2005, Abizadeh 2008)
 
 Defining the demos as the state is both over and under inclusive. Over, because many not affected are given a say & under because resident aliens are not. p40
 
@@ -577,9 +577,9 @@ Normative core of democracy includes ideals as well as processes. AI & SC accoun
 
 Political equality & solidarity are normative cores of democracy that are adversely affected by the AI & SC. p43
 
-"The fundamental moral presumption of democracy is that no person is intrinsically superior to another" p43
+> "The fundamental moral presumption of democracy is that no person is intrinsically superior to another" p43
 
-"Democracy is a collective decision making process subject to the condition of equality" p43
+> "Democracy is a collective decision making process subject to the condition of equality" p43
 
   - but is the equality required amongst all those subject to law or merely those who make the law?
   - does this require equality between ruler and subject?
@@ -594,7 +594,7 @@ She makes an interesting distinction between liberal (hypothetical)justification
 
 The size of a polity inversely affects the solidarity of its people. p55  As well its stability. p56  These concerns undermine democratic solidarity.
 
-"What the affected interests and coercion principles actually require is different demoi for different decisions." p56
+> "What the affected interests and coercion principles actually require is different demoi for different decisions." p56
 
 Mutual trust and solidarity "provide a prima facie case for a territorial answer to the boundary problem." p59
 
@@ -613,44 +613,43 @@ Her position is that "the ideal of democracy – ...democracy as collective self
 
 So "to the extent that we wish to hold on to democracy as a normative ideal when approaching the boundary question about justified inclusion (the ‘B question’), whatever solution we come up with, it must be compatible with the basic conditions of democracy (the ‘C question’, i.e. what conditions must an arrangement fulfil in order to be democratic?)." p535
 
-"On the narrower exogenous view, the boundary problem is considered to be a question to which democratic theory is not supposed to offer an answer" p535
+> "On the narrower exogenous view, the boundary problem is considered to be a question to which democratic theory is not supposed to offer an answer" p535
 
-"On the broader endogenous view, by contrast, the boundary question is seen as internal to democratic theory in the sense that answers to this question also rest on democratic theory" p535
+> "On the broader endogenous view, by contrast, the boundary question is seen as internal to democratic theory in the sense that answers to this question also rest on democratic theory" p535
 
-> She extends the All Coerced Principle
+She extends the All Coerced Principle
 
-"The equal influence principle states that ‘all those who are systematically and over time subjected to the exercise of political power (authority) and to its laws, political decisions and rules, should systematically and over time have an equal influence in the decision making’" p536 
+> "The equal influence principle states that ‘all those who are systematically and over time subjected to the exercise of political power (authority) and to its laws, political decisions and rules, should systematically and over time have an equal influence in the decision making’" p536 
 
-> The C question needs to come first vice other theorists.
+The C question needs to come first vice other theorists.
 
-"Most importantly, from the fact that the B question is causally and empirically prior, it does not follow that it is also normatively prior." p536
+> "Most importantly, from the fact that the B question is causally and empirically prior, it does not follow that it is also normatively prior." p536
 
-"if we adopt the broader endogenous view of democratic theory when approaching the B question, we need a pair of ‘democratic glasses’, specifying at least the basic requirements for an arrangement to qualify as minimally democratic (answering the C question), in order to know where to look" p536
+> "if we adopt the broader endogenous view of democratic theory when approaching the B question, we need a pair of ‘democratic glasses’, specifying at least the basic requirements for an arrangement to qualify as minimally democratic (answering the C question), in order to know where to look" p536
 
-"equal decision power also involves what we might call a ‘teleological’ dimension, in that people rule over themselves only if they, at least a sufficient number of them, act politically by ‘exercising’ their political equality." p536
+> "equal decision power also involves what we might call a ‘teleological’ dimension, in that people rule over themselves only if they, at least a sufficient number of them, act politically by ‘exercising’ their political equality." p536
 
 Democracy requires that people bind themselves equally to each other. p536
 
-"it is not clear how [all-affected-interests] is able to get us from a conception of moral equality in terms of counting all interests equally, to political equality in terms of the equal political power." p536
+> "it is not clear how [all-affected-interests] is able to get us from a conception of moral equality in terms of counting all interests equally, to political equality in terms of the equal political power." p536
 
-"Hence, while the all affected principle might be used as a justification of democratic borders as part of a moral theory, e.g. a theory of justice, it is difficult to see how it can translate by itself its moral egalitarian underpinnings into equal political influence." p536
+> "Hence, while the all affected principle might be used as a justification of democratic borders as part of a moral theory, e.g. a theory of justice, it is difficult to see how it can translate by itself its moral egalitarian underpinnings into equal political influence." p536
 
 Contexts of interdependent interests: the "circumstances in which the realization of nearly all of the fundamental interests of a person is connected with the realization of nearly all fundamental interests of others" p541
 
-"The condition of interdependent interests on my account does not justify any normative criteria of democratic inclusion – this work is done by the equal influence principle – it only justifies the applicability of democracy as a normative ideal." p541
+> "The condition of interdependent interests on my account does not justify any normative criteria of democratic inclusion – this work is done by the equal influence principle – it only justifies the applicability of democracy as a normative ideal." p541
 
-> interdependent interests place a constraint on over inclusion.  
+interdependent interests place a constraint on over inclusion.  
 
-> The all-affected interest principle may not justify suffrage or inclusion but it does justify consideration.
+The all-affected interest principle may not justify suffrage or inclusion but it does justify consideration.
 
-"In sum, on the defended account, political legitimacy requires the fulfilment of the principle of political legitimacy, which is applicable in contexts of arbitrary rule, while democratic legitimacy requires the fulfilment of the equal influence principle, which is applicable in contexts of interdependent interests" p543
+> "In sum, on the defended account, political legitimacy requires the fulfilment of the principle of political legitimacy, which is applicable in contexts of arbitrary rule, while democratic legitimacy requires the fulfilment of the equal influence principle, which is applicable in contexts of interdependent interests" p543
 
-
-> Erman's argument has very strong parallels with @song2012's but suffers the same objections.
-> 
->  - all affected principle ignores the conditions of democracy
->  - democracy requires equality and equality demands a different prinicple
->  - both however, fail to answer the question of who should be bounded by what
+Erman's argument has very strong parallels with @song2012's but suffers the same objections.
+ 
+  - all affected principle ignores the conditions of democracy
+  - democracy requires equality and equality demands a different prinicple
+  - both however, fail to answer the question of who should be bounded by what
 
 
 ## @espejo2014
