@@ -305,7 +305,6 @@ If we want to solve the BP with democratic ideals, we need to be clear on what t
 
 LD concerns of constituency will primarily relate to impact of decisions. RD concerns of constituency will primarily relate to to the quality of the demos itself. p206
 
-
 RD concerns suggest exclusion:
 
   - mutual solidarity and identification is easier in small homogeneous groups. p208
@@ -327,6 +326,60 @@ But the counter reasons towards exclusion are:
 
   - Mill's "free institution" are only possible in societies whose member shared a common national identity. p211
   - respect for law and dissent are only possible when common sympathies create sufficient solidarity between groups. p212
+
+So far, Miller' analysis has looked internally to the demos.  But democracy also has external effects. "As I suggested earlier, the effect of considering impact is likely to be to give democracy a more inclusionary push - to expand the demos so that it includes more of those who will bear the impact of its decisions" p213
+
+Two key principles are the affected-interests and coercion principles.  It's possible to be affected without being coerced but not vice versa. p214
+
+Only LD's are concerned by affected interests but both "must respond when the coercion principle comes into play,because the normal effect of coercion is to undermine  personal autonomy,  while protecting autonomy is central to
+both conceptions of democracy". p214
+
+Miller lists four problems with the affected-interest principle:
+
+  - affect depend on the question which leads to circularity or universality p215
+  - the interaction between domain (which people) and scope (which issues) p216
+  - affect occurs in different degrees p216
+  - affect doesn't normally seem to entail a right to participate p218
+
+"Widening the demos may change its character and/or the decision procedures it uses, and these in turn will alter the quality of the decisions takes, and their impact on different groups of people .... The circularity problem runs deep."
+
+Coercion on the other hand has the following characteristics: p219
+
+  - intended to realise the will of a coercer
+  - compliance is non-voluntary
+  - pressure is used to achieve compliance.
+  - undermined the autonomy of those coerced (they become an instrument of the coercer's will)
+  - some other course of action must be taken
+
+Coercion differs from prevention.  Miller has a poor example on p220
+
+"I have that what is distinctive about coercion is suggested normatively that it undermines the autonomy of the person coerced" p221
+
+The web of laws in a democratic state is sufficiently coercive to require justification because the coercion is unavoidable. "Their unavoidable coercion can only be made legitimate by the opportunity they have to influence those decisions." p222
+
+"being coerced by a demos does generate a claim for inclusion that is far stronger than any claim that the affected interests principle is likely to generate" p225
+
+Miller offers some solutions:
+
+  - have democratic states commit themselves to not coercing outsiders. p222
+  - give outsiders a non-binding say on issues that effect them p223
+
+The BP requires striking a balance between an internally functioning demos and its external effects, and this balance will be swayed by whether one is an L or R democrat. p226
+
+"Wherewe already have a well-functioning democracy, this is a prima facie reason not to alter its domain" p227
+
+To solve the BP, we need to ask:
+
+  - how well do prevailing systems perform p226
+  - do changes improve internal functioning p227
+  - do changes reduce negative externalities p227
+  - can externalities be limited internally (by removing these issues from the internal domain) p227
+
+  "there can be no algorithm for deciding whether any proposed shift of domain represents a democratic gain or a democratic loss." p227
+
+  "Instead they are questions that must be debated within existing demoi whenever proposals for altering boundaries appear on the agenda" p228
+
+"One reason for thinking that domain questions can only be resolved internally is that each demos will have its own conception of democracy" p228
 
 
 
