@@ -473,6 +473,8 @@ A key claim:
 
 But this clearly precludes a right to self-determination as the identification of a collective self is largely dependent on others.
 
+
+
 ## @owen2012
 
 
