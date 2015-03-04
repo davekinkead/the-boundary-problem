@@ -290,7 +290,7 @@ It is not obvious that democracy is any help on this issue. "Ateempts to propose
 
 This might be because "there is no simple entailment from democratic principles to the choice of political unit...or it might mean that the criteria ... are not themselves democratic." p203
 
-Two reasons we shoudl try and solve the BP with a democratic approach: p203
+Two reasons we should try and solve the BP with a democratic approach: p203
 
  - without democracy, we become emeshed in controversy as non-democratic substantive ideals are hotly contested.
  - there is inutitive discomfort with an abitrary approach from the democratic perspective.
@@ -327,7 +327,7 @@ But the counter reasons towards exclusion are:
   - Mill's "free institution" are only possible in societies whose member shared a common national identity. p211
   - respect for law and dissent are only possible when common sympathies create sufficient solidarity between groups. p212
 
-So far, Miller' analysis has looked internally to the demos.  But democracy also has external effects. "As I suggested earlier, the effect of considering impact is likely to be to give democracy a more inclusionary push - to expand the demos so that it includes more of those who will bear the impact of its decisions" p213
+So far, Miller's analysis has looked internally to the demos.  But democracy also has external effects. "As I suggested earlier, the effect of considering impact is likely to be to give democracy a more inclusionary push - to expand the demos so that it includes more of those who will bear the impact of its decisions" p213
 
 Two key principles are the affected-interests and coercion principles.  It's possible to be affected without being coerced but not vice versa. p214
 
@@ -385,7 +385,7 @@ To solve the BP, we need to ask:
 ## @agné2010
 
 
-> "democratic founding is para- doxical because of the difficulty or even inability of the people to decide democratically on who they are" p382
+> "democratic founding is paradoxical because of the difficulty or even inability of the people to decide democratically on who they are" p382
 
 He describes the logic of Boundary Problem as: 
 
@@ -402,7 +402,6 @@ It is only problematic when those "who will be excluded from the political order
 Why ideal theory matters:
 
 > "opening one’s eyes to the ignored theoretical possibilities of procedural democracy has significant consequences for thinking about real-world politics." p384
-
 
 Agné outlines 3 approaches to founding democracies:
 
@@ -483,7 +482,7 @@ But this clearly precludes a right to self-determination as the identification o
 
 Abizadeh defines the boundary problem as "determining who is a member of the collectivity that legitimately exercises political power" or "What is the prepolitical ground for determining the boundaries of the human collectivity that legitimately exercises power (and over whom power is legitimately exercised)" p868
 
-His argument is  "once we recognize that the demos is in principle unbounded, and abandon the quest for a prepolitical ground of legitimacy, can democratic theory fully avoid this collapse of demos into nation into ethnos. But such a theory departs radically from traditional theory." p867
+His argument is that "once we recognize that the demos is in principle unbounded, and abandon the quest for a prepolitical ground of legitimacy, can democratic theory fully avoid this collapse of demos into nation into ethnos. But such a theory departs radically from traditional theory." p867
 
 > "My thesis is that only a recognition that the demos is in principlesiple unbounded can yield a coherent theory of democratic legitimacy." p868
 
@@ -757,13 +756,13 @@ Relying on territory to define the people is highly problematic because democrat
 
 "it turns out that the leading solutions to the boundary problem are incomplete and fall into paradox." p467
 
-Her second argument is that "democratic theory should explicitly ana- lyze territory when dealing with the boundaries of the democratic people" p467
+Her second argument is that "democratic theory should explicitly analyze territory when dealing with the boundaries of the democratic people" p467
 
 The best approach to solving the BP is to dissolving the circularity of it. p467
 
 Her explaination: ^1 p467
 
->  Equality requires that all those individuals ruled democratically have a right to participate in creating and transforming the basic institutions that rule them, because otherwise they would not be treated equally. Yet, this commitment is incompatible with a second demo- cratic commitment: popular rule. According to the first commitment, all individuals should be allowed to participate in creating institutions of rule. According to the second, the people is a basic institution of rule. The commitments are incompatible because a democratic decision to create the people generates an infinite regress. Hence, democracy is incoherent. This is the problem of popular indeterminacy.
+>  Equality requires that all those individuals ruled democratically have a right to participate in creating and transforming the basic institutions that rule them, because otherwise they would not be treated equally. Yet, this commitment is incompatible with a second democratic commitment: popular rule. According to the first commitment, all individuals should be allowed to participate in creating institutions of rule. According to the second, the people is a basic institution of rule. The commitments are incompatible because a democratic decision to create the people generates an infinite regress. Hence, democracy is incoherent. This is the problem of popular indeterminacy.
 
 Most democratic theorists don't view the BP as a problem because they see inclusion derived from non-democratic principle ie equality or liberty.
 
